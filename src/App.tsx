@@ -48,7 +48,7 @@ function App() {
           <form onSubmit={handleSubmit} className="bg-white/80 backdrop-blur-sm rounded-2xl shadow-soft p-8 mb-8 border border-primary-100">
             <div className="mb-6">
               <label htmlFor="situation" className="block text-primary-700 text-sm font-medium mb-3">
-                Hey! What's on your mind? 🤔
+                Hey! What's on your mind? 
               </label>
               <textarea
                 id="situation"
